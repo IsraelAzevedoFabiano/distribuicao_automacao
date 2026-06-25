@@ -1,0 +1,1 @@
+Projeto destinado exclusivamente para distribuir o pacote de automacoes.
